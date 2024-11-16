@@ -1,3 +1,5 @@
 blog/mysite/db.sqlite3
 blog/venv/
 blog/mysite/**/__pycache__/
+blog/.env
+blog/.idea/**
